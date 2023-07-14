@@ -17,8 +17,7 @@ Le fichier Power BI contient plusieurs visualisations interactives qui permetten
 
 **Comment Utiliser**
 Clonez ce dépôt ou téléchargez le fichier .pbix.
-Ouvrez le fichier .pbix dans Power BI Desktop. Si vous n'avez pas Power BI Desktop, vous pouvez le télécharger ici ou utiliser directement ce lien : 
-  "https://app.powerbi.com/view?r=eyJrIjoiOWMyZjNiZTMtYWNkYy00ZDM5LWEyZWItZGI0OGY2NWI5NDgxIiwidCI6ImU4ZGY1ZjQzLTgwYzktNDdmNi1hMDQwLTQ1NjJkY2U3M2NjZCJ9
+Ouvrez le fichier .pbix dans Power BI Desktop. Si vous n'avez pas Power BI Desktop, vous pouvez le télécharger ici ou utiliser directement ce lien : "https://app.powerbi.com/view?r=eyJrIjoiOWMyZjNiZTMtYWNkYy00ZDM5LWEyZWItZGI0OGY2NWI5NDgxIiwidCI6ImU4ZGY1ZjQzLTgwYzktNDdmNi1hMDQwLTQ1NjJkY2U3M2NjZCJ9
 Explorez les visualisations en cliquant sur les différents éléments pour filtrer et percer les données.
 
 **Contribution**
